@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "outDir": "C:\\Users\\daign\\AppData\\Local\\Screeps\\scripts\\screeps.com\\screepy_local"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
